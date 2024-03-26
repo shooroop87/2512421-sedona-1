@@ -1,7 +1,7 @@
 # Личный проект «Седона»
 
-* Студент: [Андрей Егоров](https://htmlacademy.ru/profile/id2512421).
-* Наставник: `Виктория Никитина`.(https://htmlacademy.ru/profile/id1217273).
+* Студент: [Андрей Егоров](https://htmlacademy.ru/profile/id2512421)
+* Наставник: [Виктория Никитина](https://htmlacademy.ru/profile/id1217273)
 
 ---
 
